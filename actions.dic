@@ -11,4 +11,4 @@ agenda (LINE number) [<week,weeks>]
   cal "xterm -hold -e gcalcli --user <gmail address> --pw <gmail password> --cal <chosen calendar> calw $number$"
 
 Display calendar [for the next] (WORD number) [<week,weeks>
-  cal "xterm -hold -e gcalcli --user <gmail address> --pw <gmail password> --cal <chosen calendar> calw $number$"
+  cal "xterm -hold -e gcalcli --user <dragondon@dragondon.net> --pw <Cblsttrotwd2014> --cal <default> calw $number$"

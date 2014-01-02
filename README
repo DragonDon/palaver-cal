@@ -4,7 +4,7 @@ It is a program to control Google Calender.
 
 Requirements:
 
-	- install gcalcli (most Linux systems, "sudo apt-get install gcalcli")
+	- install gcalcli (https://github.com/insanum/gcalcli, excellent how-to here: http://ericonotes.blogspot.com/2013/05/using-gcalcli-to-access-google-calendar.html)
 	- edit actions.dic to use your own gmail address and username/password
 
 If you have any problems, please email me: timtjtim@gmail.com. My name is Tim Hitchins.
